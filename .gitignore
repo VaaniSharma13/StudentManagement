@@ -34,3 +34,4 @@ build/
 target/
 .idea/
 *.class
+.DS_Store
